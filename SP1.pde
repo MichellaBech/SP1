@@ -1,3 +1,4 @@
+//I have made a garden, which draws flowers when you click the mouse and it rains when you press a key
 color c = color(random(0, 255), random(0, 255), random(0, 255));
 Flower flower = new Flower(c);
 Rain rain = new Rain();
